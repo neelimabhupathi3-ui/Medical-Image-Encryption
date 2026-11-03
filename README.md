@@ -41,7 +41,6 @@ The application displays three images:
  - Encrypted Image
  - Decrypted Image
 # Installation
-Install the required libraries:
   pip install -r requirements.txt
 # How to Run
   medical_image_encryption.py
